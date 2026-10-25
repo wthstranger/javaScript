@@ -214,7 +214,7 @@ Computer Science Engineering Student | Android Developer | Cybersecurity Enthusi
 
 * GitHub: https://github.com/wthstranger
 * LinkedIn: Add your LinkedIn profile here
-* instagram: 
+* instagram: https://www.instagram.com/wthstranger08
 
 ---
 
